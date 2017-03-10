@@ -2,6 +2,14 @@
 	"fileVersion": 1,
 	"versions": {
 		"ddb": "0.2.6",
-		"gtk-d": "3.5.1"
+		"ddbc": "0.3.2",
+		"derelict-pq": "2.0.3",
+		"derelict-util": "2.0.6",
+		"gtk-d": "3.5.1",
+		"libasync": "0.7.9",
+		"libevent": "2.0.2+2.0.16",
+		"memutils": "0.4.9",
+		"mysql-native": "1.0.0",
+		"vibe-d": "0.7.30"
 	}
 }

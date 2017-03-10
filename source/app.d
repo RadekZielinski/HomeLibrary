@@ -1,6 +1,7 @@
 import std.stdio;
 
 import config;
+import database;
 
 
 void main()
@@ -15,5 +16,6 @@ void main()
 	 *
 	 */
 	Config config = new Config();
+	Database db = new Database(config.dbFileAddr);
 	writeln("Edit source/app.d to start your project.");
 }

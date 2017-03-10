@@ -1,0 +1,871 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"attr",
+				"attrs\tvariable"
+			],
+			[
+				"inset",
+				"insertBefore"
+			],
+			[
+				"to",
+				"toLowerCase"
+			],
+			[
+				"tag",
+				"tagName"
+			],
+			[
+				"e",
+				"each"
+			],
+			[
+				"ce",
+				"cellIndex"
+			],
+			[
+				"th",
+				"thead"
+			],
+			[
+				"ta",
+				"tagName"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"borderc",
+				"border-collapse"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"cl",
+				"clickedElement"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"rg",
+				"rgba($1)"
+			],
+			[
+				"r",
+				"richEditor"
+			],
+			[
+				"co",
+				"content-html"
+			],
+			[
+				"edi",
+				"editor-menu"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"lan",
+				"lang"
+			],
+			[
+				"la",
+				"lang"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"errot",
+				"errorText"
+			],
+			[
+				"ad",
+				"address"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"t",
+				"title"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"use",
+				"userLang"
+			],
+			[
+				"lang",
+				"lang_id"
+			],
+			[
+				"l",
+				"lang_id"
+			],
+			[
+				"request",
+				"request"
+			],
+			[
+				"route",
+				"Route"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"x",
+				"xAxis"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"c",
+				"contrast"
+			],
+			[
+				"fle",
+				"flex-end"
+			],
+			[
+				"spa",
+				"space-around"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"mari",
+				"margin-bottom"
+			],
+			[
+				"color",
+				"colors"
+			],
+			[
+				"fotn",
+				"font-family"
+			],
+			[
+				"colo",
+				"colors"
+			],
+			[
+				"data",
+				"data_colorblind"
+			],
+			[
+				"chr",
+				"chartist"
+			],
+			[
+				"char",
+				"chartOne"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"s",
+				"space-around"
+			],
+			[
+				"flex",
+				"flex-start"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"border",
+				"border-left"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"add",
+				"addhtmlTag"
+			],
+			[
+				"a",
+				"address"
+			],
+			[
+				"cone",
+				"content"
+			],
+			[
+				"fi",
+				"formatowania"
+			],
+			[
+				"fl",
+				"flex-direction"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"te",
+				"textStyle"
+			],
+			[
+				"ann",
+				"annotation"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"spac",
+				"space-between"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"new",
+				"newPage"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"js",
+				"jsonArr"
+			],
+			[
+				"chil",
+				"childrens"
+			],
+			[
+				"gett",
+				"gettype"
+			],
+			[
+				"chi",
+				"child"
+			],
+			[
+				"at",
+				"attribs"
+			],
+			[
+				"attri",
+				"attributes"
+			],
+			[
+				"att",
+				"attr"
+			],
+			[
+				"arr",
+				"arrayName"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"preg",
+				"preg_match"
+			],
+			[
+				"sp",
+				"splitted"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "source/app.d",
+			"settings":
+			{
+				"buffer_size": 320,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/config.d",
+			"settings":
+			{
+				"buffer_size": 479,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/DKit/D.sublime-build",
+					""
+				],
+				[
+					"Packages/DKit/D.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/DKit/D.sublime-build",
+					"dub"
+				],
+				[
+					"Packages/DKit/D.sublime-build",
+					"dub (single file)"
+				],
+				[
+					"Packages/DKit/D.sublime-build",
+					"dub build"
+				],
+				[
+					"Packages/DKit/D.sublime-build",
+					"dub build (single file)"
+				],
+				[
+					"Packages/DKit/D.sublime-build",
+					"dub test"
+				]
+			],
+			[
+				"Packages/DKit/D.sublime-build",
+				"dub build"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 372.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/radek/Dokumenty/Projects/Home Library",
+		"/home/radek/Dokumenty/Projects/Home Library/source"
+	],
+	"file_history":
+	[
+		"/home/radek/Dokumenty/Projects/Home Library/source/database/package.d",
+		"/home/radek/Dokumenty/Projects/KorektorDrukarski/KorektorDrukarski.sublime-project",
+		"/home/radek/Dokumenty/Projects/KorektorDrukarski/source/dom/domelement.d",
+		"/home/radek/Dokumenty/Projects/KorektorDrukarski/source/dom/domdocument.d",
+		"/home/radek/Dokumenty/Projects/KorektorDrukarski/source/dom/package.d",
+		"/home/radek/Dokumenty/Projects/KorektorDrukarski/source/app.d",
+		"/home/radek/Publiczny/festiwal/polityka-prywatnosci.html",
+		"/home/radek/Publiczny/mikrocms/resources/assets/less/mian/homepage.less",
+		"/home/radek/Publiczny/mikrocms/resources/assets/less/panel/home.less",
+		"/home/radek/Publiczny/mikrocms/app/PageVersion.php",
+		"/home/radek/Publiczny/mikrocms/app/Http/Controllers/PagesController.php",
+		"/home/radek/Publiczny/mikrocms/resources/views/panel/add.blade.php",
+		"/home/radek/Publiczny/mikrocms/resources/assets/less/main.less",
+		"/home/radek/Publiczny/mikrocms/resources/views/panel/home.blade.php",
+		"/home/radek/Publiczny/mikrocms/app/Providers/RouteServiceProvider.php",
+		"/home/radek/Publiczny/mikrocms/database/migrations/2017_02_28_073015_page_versions_table_creator.php",
+		"/home/radek/Publiczny/mikrocms/resources/views/pages/layout.blade.php",
+		"/home/radek/Publiczny/mikrocms/public/js/editor.js",
+		"/home/radek/Publiczny/mikrocms/resources/assets/less/panel/edit.less",
+		"/home/radek/Publiczny/mikrocms/resources/assets/less/panel.less",
+		"/home/radek/Publiczny/mikrocms/gulpfile.js",
+		"/home/radek/Publiczny/mikrocms/routes/web.php",
+		"/home/radek/Publiczny/mikrocms/resources/assets/js/editor.js",
+		"/home/radek/Publiczny/mikrocms/resources/views/pages/subpage.blade.php",
+		"/home/radek/Publiczny/mikrocms/resources/views/pages/index.blade.php",
+		"/home/radek/Publiczny/mikrocms/resources/views/panel/layout.blade.php",
+		"/home/radek/Publiczny/mikrocms/storage/logs/laravel.log",
+		"/home/radek/Publiczny/mikrocms/.env",
+		"/home/radek/Publiczny/mikrocms/database/migrations/2017_02_15_072033_pages_table_creator.php",
+		"/home/radek/Publiczny/mikrocms/config/app.php",
+		"/home/radek/Publiczny/mikrocms/resources/assets/less/panel/add.less",
+		"/home/radek/Publiczny/mikrocms/resources/assets/less/panel/global.less",
+		"/home/radek/Publiczny/mikrocms/app/Http/Controllers/PanelController.php",
+		"/home/radek/lorem.html",
+		"/home/radek/Publiczny/mikrocms/resources/assets/less/panel/fonts.less",
+		"/home/radek/Publiczny/mikrocms/resources/assets/less/panel/header.less",
+		"/home/radek/Publiczny/dbs2016csr/resources/views/layouts/header.blade.php",
+		"/home/radek/Publiczny/dbs2016csr/public/css/src/subpage.less",
+		"/home/radek/Publiczny/dbs2016csr/public/css/src/fonts.less",
+		"/home/radek/Publiczny/dbs2016csr/app/Http/Controllers/PagesController.php",
+		"/home/radek/Publiczny/dbs2016csr/config/app.php",
+		"/home/radek/Publiczny/dbs2016csr/public/css/src/home.less",
+		"/home/radek/Publiczny/dbs2016csr/resources/views/layouts/head.blade.php",
+		"/home/radek/Publiczny/dbs2016csr/public/css/main.less",
+		"/home/radek/Publiczny/dbs2016csr/package.json",
+		"/home/radek/Publiczny/dbs2016csr/gulpfile.js",
+		"/home/radek/Publiczny/dbs2016csr/public/css/src/variables.less",
+		"/home/radek/Publiczny/dbs2016csr/public/css/src/misc.less",
+		"/home/radek/Publiczny/dbs2016csr/public/css/src/global.less",
+		"/home/radek/Publiczny/dbs2016csr/public/css/src/header.less",
+		"/home/radek/Publiczny/dbs2016csr/resources/assets/less/main.less",
+		"/home/radek/Publiczny/dbs2016csr/public/css/src/footer.less",
+		"/home/radek/Publiczny/dbs2016csr/public/css/app.css",
+		"/home/radek/Publiczny/highcharts/charts.js",
+		"/home/radek/Publiczny/highcharts/chartist.css",
+		"/home/radek/Publiczny/highcharts/uvcharts.js",
+		"/home/radek/Dokumenty/www/en/mapa-strony.html",
+		"/home/radek/Dokumenty/www/nasz-biznes.html",
+		"/home/radek/Dokumenty/www/wplyw-na-srodowisko.html",
+		"/home/radek/Dokumenty/www/interesariusze.html",
+		"/home/radek/Dokumenty/www/klienci.html",
+		"/home/radek/Dokumenty/www/en/nasz-biznes.html",
+		"/home/radek/Dokumenty/www/en/o-nas.html",
+		"/home/radek/Dokumenty/www/en/wizja-i-strategia.html",
+		"/home/radek/Dokumenty/www/en/wplyw-na-srodowisko.html",
+		"/home/radek/Dokumenty/www/en/interesariusze.html",
+		"/home/radek/Dokumenty/www/en/index.html",
+		"/home/radek/Dokumenty/www/en/pracownicy.html",
+		"/home/radek/Publiczny/cms/public/css/main.css",
+		"/home/radek/Publiczny/cms/resources/assets/less/src/pages/global.less",
+		"/home/radek/Publiczny/cms/gulpfile.js",
+		"/home/radek/Publiczny/cms/resources/assets/less/src/variables.less",
+		"/home/radek/Publiczny/cms/resources/assets/less/src/misc.less",
+		"/home/radek/Publiczny/cms/resources/assets/less/src/pages/home.less",
+		"/home/radek/Publiczny/cms/app/Page.php",
+		"/home/radek/Publiczny/cms/routes/web.php",
+		"/home/radek/Publiczny/cms/resources/views/pages/layout.blade.php",
+		"/home/radek/Publiczny/cms/resources/views/pages/index.blade.php",
+		"/home/radek/Publiczny/cms/app/Http/Controllers/PageController.php",
+		"/home/radek/Publiczny/cms/resources/assets/less/src/main.less",
+		"/home/radek/Publiczny/cms/resources/views/panel/edit.blade.php",
+		"/home/radek/Publiczny/cms/resources/views/panel/layout.blade.php",
+		"/home/radek/Publiczny/cms/resources/assets/js/editor.js",
+		"/home/radek/Publiczny/cms/resources/assets/less/src/panel/edit.less",
+		"/home/radek/Publiczny/cms/resources/assets/less/panel.less",
+		"/home/radek/Publiczny/cms/resources/assets/less/src/panel/home.less",
+		"/home/radek/Publiczny/cms/resources/assets/less/src/panel/header.less",
+		"/home/radek/Publiczny/cms/resources/assets/less/src/panel/main.less",
+		"/home/radek/Publiczny/cms/config/app.php",
+		"/home/radek/Publiczny/cms/app/Http/Controllers/ImageController.php",
+		"/home/radek/Publiczny/cms/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/home/radek/Publiczny/cms/vendor/symfony/routing/Route.php",
+		"/home/radek/Publiczny/cms/app/Http/Controllers/PanelController.php",
+		"/home/radek/Publiczny/cms/resources/views/panel/home.blade.php",
+		"/home/radek/Publiczny/cms/app/Http/Controllers/HomeController.php",
+		"/home/radek/Publiczny/cms/resources/views/panel/add.blade.php",
+		"/home/radek/Publiczny/cms/app/Http/Controllers/Auth/LoginController.php",
+		"/home/radek/Publiczny/cms/app/Http/Controllers/Auth/RegisterController.php",
+		"/home/radek/Publiczny/cms/database/migrations/2017_01_30_091100_pages_table_creator.php",
+		"/home/radek/Publiczny/cms/resources/assets/js/components/Example.vue",
+		"/home/radek/Publiczny/cms/.env",
+		"/home/radek/Publiczny/cms/database/migrations/2017_01_25_122648_groups_table_creator.php",
+		"/home/radek/Publiczny/cms/database/migrations/2017_01_25_135932_languages_table_creator.php",
+		"/home/radek/Publiczny/cms/database/migrations/2017_01_26_090927_menu_items_table_creator.php",
+		"/home/radek/Publiczny/cms/database/migrations/2017_01_25_140505_menus_table_creator.php",
+		"/home/radek/Publiczny/cms/database/migrations/2017_01_25_131357_users_table_creator.php",
+		"/home/radek/Publiczny/cms/database/migrations/2017_01_25_074048_db_creator.php",
+		"/home/radek/Publiczny/cms/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/home/radek/Publiczny/cms/resources/assets/js/app.js",
+		"/home/radek/Publiczny/cms/public/css/app.css"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" [a-zA-z]{1,2} ",
+			" [a-zA-z] ",
+			" w ",
+			" o ",
+			" w ",
+			" z ",
+			"\t\n",
+			"stopPropagation()",
+			"stopPropagation",
+			"#editField td, th",
+			"insertAfter",
+			"Before",
+			"td",
+			"console",
+			"div",
+			"true",
+			");\n",
+			";\n",
+			"%;\n",
+			"5",
+			"RouteServiceProvider",
+			"id",
+			"address",
+			";\n",
+			"/fonts",
+			"label",
+			"2015",
+			"2014",
+			"2015",
+			"2014",
+			"                    \n",
+			"'],",
+			"pie",
+			"/* IE6-IE8 */",
+			"header",
+			"\"}\n",
+			"tryb",
+			");\n",
+			"font",
+			"our Co",
+			"nasze inwe",
+			"[0-9]{1,}&nbsp;[0-9]",
+			"1&nbsp;",
+			"1&nbsp;967",
+			"1&nbsp;",
+			"[0-9]{1,}&nbsp;[0-9]",
+			"[0-9]{1,}&nbsp[0-9]",
+			"[0-9]{1,}&nbsp",
+			"nasze prod",
+			"Do prawej",
+			"Wyśrodkowanie",
+			"Przekreślenie",
+			"Podkreślenie",
+			"Wyrównanie d",
+			"Kursywa",
+			"Pogrubienie",
+			"get",
+			"get(",
+			"image",
+			"],\n",
+			"]",
+			"div",
+			"body",
+			"dev",
+			"%;\n",
+			"%;"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			" o&nbsp;",
+			" w&nbsp;",
+			" z&nbsp;",
+			"#editField td, #editField th",
+			"Tryb"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "source/app.d",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 320,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								320,
+								320
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/D/D.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "source/config.d",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 479,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								451,
+								451
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/D/D.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 129.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/DKit/D.sublime-build",
+	"project": "Home Library.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"route",
+				"vendor/symfony/routing/Route.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

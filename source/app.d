@@ -2,6 +2,7 @@ import std.stdio;
 
 import config;
 
+
 void main()
 {
 	/*

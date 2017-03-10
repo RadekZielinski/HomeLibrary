@@ -1,0 +1,5 @@
+*.sublime*
+.dub/
+dub.selections.json
+homelibrary
+configuration.conf

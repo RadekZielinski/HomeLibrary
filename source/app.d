@@ -1,5 +1,7 @@
 import std.stdio;
 
+import config;
+
 void main()
 {
 	/*
@@ -11,5 +13,6 @@ void main()
 	 * - some icon will be needed
 	 *
 	 */
+	Config config = new Config();
 	writeln("Edit source/app.d to start your project.");
 }

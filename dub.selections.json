@@ -1,0 +1,7 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"ddb": "0.2.6",
+		"gtk-d": "3.5.1"
+	}
+}
